@@ -132,6 +132,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.LightSlateGray;
             this.ClientSize = new System.Drawing.Size(636, 503);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -143,7 +144,7 @@
             this.Controls.Add(this.tbJmeno);
             this.Controls.Add(this.lbOsoby);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Test";
             this.ResumeLayout(false);
             this.PerformLayout();
 

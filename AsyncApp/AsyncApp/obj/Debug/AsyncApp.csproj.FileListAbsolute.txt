@@ -14,3 +14,6 @@ c:\users\ondrej\documents\visual studio 2013\Projects\AsyncApp\AsyncApp\obj\Debu
 c:\Users\Ondrej\Documents\GitHub\Test\AsyncApp\bin\Debug\AsyncApp.exe.config
 c:\Users\Ondrej\Documents\GitHub\Test\AsyncApp\obj\Debug\AsyncApp.exe
 c:\Users\Ondrej\Documents\GitHub\Test\AsyncApp\obj\Debug\AsyncApp.pdb
+c:\Users\Ondrej\Documents\GitHub\Test\AsyncApp\AsyncApp\bin\Debug\AsyncApp.exe.config
+c:\Users\Ondrej\Documents\GitHub\Test\AsyncApp\AsyncApp\obj\Debug\AsyncApp.exe
+c:\Users\Ondrej\Documents\GitHub\Test\AsyncApp\AsyncApp\obj\Debug\AsyncApp.pdb
