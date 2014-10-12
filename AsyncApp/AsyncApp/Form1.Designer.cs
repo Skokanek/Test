@@ -77,25 +77,27 @@
             // btnSave
             // 
             this.btnSave.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnSave.BackColor = System.Drawing.Color.Wheat;
             this.btnSave.Enabled = false;
             this.btnSave.Location = new System.Drawing.Point(540, 473);
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(88, 23);
             this.btnSave.TabIndex = 4;
             this.btnSave.Text = "Uložit změny";
-            this.btnSave.UseVisualStyleBackColor = true;
+            this.btnSave.UseVisualStyleBackColor = false;
             this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
             // 
             // btnExport
             // 
             this.btnExport.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnExport.BackColor = System.Drawing.Color.Wheat;
             this.btnExport.Enabled = false;
             this.btnExport.Location = new System.Drawing.Point(389, 473);
             this.btnExport.Name = "btnExport";
             this.btnExport.Size = new System.Drawing.Size(126, 23);
             this.btnExport.TabIndex = 5;
             this.btnExport.Text = "Exportovat data";
-            this.btnExport.UseVisualStyleBackColor = true;
+            this.btnExport.UseVisualStyleBackColor = false;
             this.btnExport.Click += new System.EventHandler(this.btnExport_Click);
             // 
             // label1
